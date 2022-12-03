@@ -96,6 +96,6 @@ Finalmente reservar mediando un pago sea del 100% del valor, o bien el 50% para 
   
 # Testing
 
-- [ ] Al menos tener un componente del frontend con sus tests respectivos
-- [ ] Al menos tener una ruta del backend con sus tests respectivos
-- [ ] Al menos tener un modelo de la base de datos con sus tests respectivos
+- [ ] Al menos tener 5 componentes del frontend con sus tests respectivos
+- [ ] Al menos tener 5 rutas del backend con sus tests respectivos
+- [ ] Al menos tener 5 modelos de la base de datos con sus tests respectivos
