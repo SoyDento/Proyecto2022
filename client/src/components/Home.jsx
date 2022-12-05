@@ -50,11 +50,11 @@ const Home = () => {
           classNameDiv={"comportamientoCard"}
           links={'comportamiento'}
         />
+
       </div>
-      
       <div>
-        <h2>ACA VA EL COMPONENTE FOOTER</h2>
         {/* En esta linea hay que invocar al componente Footer */}
+        <h2>ACA VA EL COMPONENTE FOOTER</h2>
       </div>
     </div>
   );

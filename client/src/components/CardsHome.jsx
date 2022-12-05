@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-const CardsHome = ({ descriptionBtn, classNameDiv,links }) => {
+const CardsHome = ({descriptionBtn, classNameDiv,links }) => {
   return (
     <div>
       <Link to={`/${links}`}>
