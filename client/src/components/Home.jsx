@@ -51,6 +51,7 @@ const Home = () => {
           links={'comportamiento'}
         />
       </div>
+      
       <div>
         <h2>ACA VA EL COMPONENTE FOOTER</h2>
         {/* En esta linea hay que invocar al componente Footer */}
